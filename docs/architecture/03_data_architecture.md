@@ -5,7 +5,7 @@
 | Database | Purpose | Cost/Month |
 |----------|---------|------------|
 | **PostgreSQL 15+** | All structured + semi-structured data (JSONB) | $250 |
-| **pgvector / Pinecone** | Vector embeddings for semantic search | $0 / $70 |
+| **pgvector / Weaviate / Pinecone** | Vector embeddings for semantic search | $0 / $70 |
 | **Redis 7+** | Cache, sessions, queues, pub/sub | $30 |
 | **S3 / GCS** | File storage (resumes, recordings) | $25 |
 | **Total** | | **$305/month** |
